@@ -1,0 +1,11 @@
+name: YuliusBox
+website_url: https://www.yuliusbox.com
+source_code_url: https://github.com/zeawhy/yuliusbox
+description: Collection of 28 privacy-first browser tools for images, documents, text and data; all processing happens client-side so files are never uploaded.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Miscellaneous
+demo_url: https://www.yuliusbox.com
